@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "455155831618",
+    "firebase_url": "https://canaryapp-8cd45.firebaseio.com",
+    "project_id": "canaryapp-8cd45",
+    "storage_bucket": "canaryapp-8cd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455155831618:android:abe8a73ba405d02b",
+        "android_client_info": {
+          "package_name": "com.project.youcef.canaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455155831618-421a83rdirp92bvkrmc9hpmn40lcc8vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.youcef.canaryapp",
+            "certificate_hash": "f93dd87a34474e05055c125f1b1cd500bcf5be3b"
+          }
+        },
+        {
+          "client_id": "455155831618-ddki738ser9cgvkk2gnksj93t9e36atc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoX_EhEjN01_ybItKDBTCjWdQdgpujLnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455155831618-ddki738ser9cgvkk2gnksj93t9e36atc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
